@@ -1,0 +1,5414 @@
+[
+{},
+  [
+  {
+    "question": "When faced with a complex problem, what do you prefer to do?",
+    "options": [
+      "Break it into smaller logical steps",
+      "Look for patterns in data",
+      "Search for existing solutions online",
+      "Design a creative interface to solve it"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 4,
+      "B.Tech Data Science": 4,
+      "B.Des UI/UX Design": 2
+    }
+  },
+  {
+    "question": "Which activity sounds most interesting to you?",
+    "options": [
+      "Developing a mobile app",
+      "Training a machine learning model",
+      "Analyzing large datasets",
+      "Securing a network system"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 4
+    }
+  },
+  {
+    "question": "How do you approach learning new technology?",
+    "options": [
+      "Practice coding regularly",
+      "Understand concepts deeply",
+      "Experiment with data",
+      "Explore system vulnerabilities"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 4,
+      "B.Tech Data Science": 4,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What type of projects excite you the most?",
+    "options": [
+      "Building software systems",
+      "Creating intelligent bots",
+      "Working on data dashboards",
+      "Testing system security"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 4,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "Which subject do you enjoy the most?",
+    "options": [
+      "Programming",
+      "Mathematics",
+      "Statistics",
+      "Networking"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 4,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 4
+    }
+  },
+  {
+    "question": "If given a chance, what would you build?",
+    "options": [
+      "A web application",
+      "An AI chatbot",
+      "A data prediction system",
+      "A secure authentication system"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "How do you handle logical puzzles?",
+    "options": [
+      "Enjoy solving them step-by-step",
+      "Try to automate the solution",
+      "Analyze patterns carefully",
+      "Look for loopholes"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 4,
+      "B.Tech Data Science": 4,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What role would you prefer in a tech team?",
+    "options": [
+      "Software developer",
+      "AI engineer",
+      "Data analyst",
+      "Security specialist"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "Which tool would you prefer working with?",
+    "options": [
+      "VS Code",
+      "TensorFlow",
+      "Excel/Python for data",
+      "Kali Linux"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Building useful software",
+      "Creating intelligent systems",
+      "Discovering insights from data",
+      "Protecting systems from attacks"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "How do you debug errors?",
+    "options": [
+      "Check code line by line",
+      "Analyze model output",
+      "Check data inconsistencies",
+      "Investigate vulnerabilities"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 4,
+      "B.Tech Data Science": 4,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "Which environment do you prefer?",
+    "options": [
+      "Software development",
+      "AI research lab",
+      "Data analytics firm",
+      "Cybersecurity operations center"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What would you do in a hackathon?",
+    "options": [
+      "Build an app",
+      "Create an AI solution",
+      "Analyze problem data",
+      "Secure the system"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What type of thinking do you rely on most?",
+    "options": [
+      "Logical thinking",
+      "Analytical thinking",
+      "Statistical thinking",
+      "Strategic thinking"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 4,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What excites you in future tech?",
+    "options": [
+      "Software innovation",
+      "Artificial Intelligence",
+      "Big Data",
+      "Cybersecurity"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "How do you prefer solving problems?",
+    "options": [
+      "Coding solutions",
+      "Using AI models",
+      "Analyzing datasets",
+      "Finding system flaws"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What type of career do you prefer?",
+    "options": [
+      "Software engineer",
+      "AI engineer",
+      "Data scientist",
+      "Cybersecurity analyst"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "Which challenge interests you most?",
+    "options": [
+      "Building scalable systems",
+      "Making machines think",
+      "Handling big data",
+      "Preventing cyber attacks"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "How do you prefer working?",
+    "options": [
+      "Writing code",
+      "Training models",
+      "Analyzing data",
+      "Testing systems"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  },
+  {
+    "question": "What defines your interest best?",
+    "options": [
+      "Creating software",
+      "Building intelligent systems",
+      "Finding insights in data",
+      "Securing systems"
+    ],
+    "weights": {
+      "B.Tech Computer Science": 5,
+      "B.Tech Artificial Intelligence": 5,
+      "B.Tech Data Science": 5,
+      "B.Sc Cyber Security": 5
+    }
+  }
+],
+
+[
+  {
+    "question": "You are given a broken machine. What is your first approach?",
+    "options": [
+      "Inspect all parts physically",
+      "Analyze the design diagram",
+      "Check electrical connections",
+      "Look for material damage"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 5,
+      "B.Tech Electrical Engineering": 4,
+      "B.Tech Civil Engineering": 3,
+      "B.Tech Mechatronics": 4
+    }
+  },
+  {
+    "question": "Which task interests you the most?",
+    "options": [
+      "Designing engines",
+      "Constructing bridges",
+      "Working with circuits",
+      "Developing automated systems"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "You enjoy subjects that involve:",
+    "options": [
+      "Motion and forces",
+      "Structures and buildings",
+      "Electricity and signals",
+      "Machines and automation"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electrical Engineering": 4,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "In a team project, your role would be:",
+    "options": [
+      "Designing mechanical parts",
+      "Planning structure layout",
+      "Handling electrical setup",
+      "Integrating systems"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electrical Engineering": 4,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "What would you prefer to work on?",
+    "options": [
+      "Car engines",
+      "Roads and infrastructure",
+      "Power grids",
+      "Robotics"
+    ],
+    "weights": {
+      "B.Tech Automobile Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "Which problem excites you most?",
+    "options": [
+      "Improving machine efficiency",
+      "Building sustainable cities",
+      "Reducing power loss",
+      "Automating processes"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "You prefer working:",
+    "options": [
+      "With machines",
+      "On construction sites",
+      "With electrical systems",
+      "With smart devices"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 4,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "What type of innovation attracts you?",
+    "options": [
+      "Better engines",
+      "Smart cities",
+      "Renewable energy",
+      "AI-powered machines"
+    ],
+    "weights": {
+      "B.Tech Automobile Engineering": 5,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "Which activity do you enjoy most?",
+    "options": [
+      "Assembling parts",
+      "Drawing structures",
+      "Fixing wiring",
+      "Programming robots"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electrical Engineering": 4,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "You like solving problems that involve:",
+    "options": [
+      "Physical systems",
+      "Large constructions",
+      "Electrical faults",
+      "Automation logic"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "Which career sounds exciting?",
+    "options": [
+      "Designing aircraft",
+      "Building highways",
+      "Managing power systems",
+      "Creating robots"
+    ],
+    "weights": {
+      "B.Tech Aerospace Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "What motivates you most?",
+    "options": [
+      "Innovation in machines",
+      "Infrastructure development",
+      "Energy solutions",
+      "Automation"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "Which subject do you prefer?",
+    "options": [
+      "Physics",
+      "Structural design",
+      "Electronics",
+      "Control systems"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electronics & Communication": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "You enjoy projects involving:",
+    "options": [
+      "Machines",
+      "Buildings",
+      "Circuits",
+      "Automation"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "Which tool would you use?",
+    "options": [
+      "Wrench",
+      "Survey tools",
+      "Multimeter",
+      "Microcontroller"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "You prefer solving:",
+    "options": [
+      "Mechanical failures",
+      "Construction issues",
+      "Electrical problems",
+      "Automation challenges"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "What kind of environment suits you?",
+    "options": [
+      "Workshop",
+      "Construction site",
+      "Power plant",
+      "Lab with robots"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "Which innovation would you choose?",
+    "options": [
+      "Efficient engines",
+      "Green buildings",
+      "Smart grids",
+      "Self-driving systems"
+    ],
+    "weights": {
+      "B.Tech Automobile Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "You are best at:",
+    "options": [
+      "Understanding machines",
+      "Visualizing structures",
+      "Working with circuits",
+      "Combining systems"
+    ],
+    "weights": {
+      "B.Tech Mechanical Engineering": 4,
+      "B.Tech Civil Engineering": 4,
+      "B.Tech Electrical Engineering": 4,
+      "B.Tech Mechatronics": 5
+    }
+  },
+  {
+    "question": "Your dream project would be:",
+    "options": [
+      "Building a car",
+      "Constructing a skyscraper",
+      "Designing a power system",
+      "Creating a robot"
+    ],
+    "weights": {
+      "B.Tech Automobile Engineering": 5,
+      "B.Tech Civil Engineering": 5,
+      "B.Tech Electrical Engineering": 5,
+      "B.Tech Mechatronics": 5
+    }
+  }
+],
+
+
+
+[
+  {
+    "question": "You see someone injured on the road. What would you do first?",
+    "options": [
+      "Provide first aid immediately",
+      "Call emergency services",
+      "Comfort the person",
+      "Observe symptoms carefully"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "BPT": 4,
+      "B.Sc Medical Laboratory Technology": 3
+    }
+  },
+  {
+    "question": "Which task interests you the most?",
+    "options": [
+      "Diagnosing diseases",
+      "Caring for patients",
+      "Preparing medicines",
+      "Analyzing lab samples"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  },
+  {
+    "question": "You prefer working in:",
+    "options": [
+      "Hospitals",
+      "Clinics",
+      "Laboratories",
+      "Pharmaceutical companies"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "BDS": 4,
+      "B.Sc Medical Laboratory Technology": 5,
+      "B.Pharm": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Saving lives",
+      "Helping people recover",
+      "Developing medicines",
+      "Researching diseases"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "BPT": 5,
+      "B.Pharm": 5,
+      "B.Sc Biotechnology": 5
+    }
+  },
+  {
+    "question": "Which subject do you enjoy the most?",
+    "options": [
+      "Biology",
+      "Chemistry",
+      "Human anatomy",
+      "Microbiology"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Pharm": 5,
+      "B.Sc Nursing": 4,
+      "B.Sc Microbiology": 5
+    }
+  },
+  {
+    "question": "You are most comfortable:",
+    "options": [
+      "Handling emergency situations",
+      "Providing patient care",
+      "Working with medicines",
+      "Using lab equipment"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  },
+  {
+    "question": "Which scenario excites you?",
+    "options": [
+      "Performing surgery",
+      "Rehabilitating patients",
+      "Studying drug effects",
+      "Running diagnostic tests"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "BPT": 5,
+      "B.Pharm": 5,
+      "B.Sc Radiology": 4
+    }
+  },
+  {
+    "question": "What type of work do you prefer?",
+    "options": [
+      "High-pressure environments",
+      "Patient interaction",
+      "Research and analysis",
+      "Technical diagnostics"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Radiology": 5
+    }
+  },
+  {
+    "question": "You enjoy learning about:",
+    "options": [
+      "Human body systems",
+      "Patient care techniques",
+      "Medicines and drugs",
+      "Lab technologies"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  },
+  {
+    "question": "Which role suits you best?",
+    "options": [
+      "Doctor",
+      "Nurse",
+      "Pharmacist",
+      "Lab technician"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  },
+  {
+    "question": "You prefer solving:",
+    "options": [
+      "Medical cases",
+      "Patient recovery issues",
+      "Drug-related problems",
+      "Diagnostic challenges"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "BPT": 5,
+      "B.Pharm": 5,
+      "B.Sc Radiology": 5
+    }
+  },
+  {
+    "question": "What kind of impact do you want to make?",
+    "options": [
+      "Save lives directly",
+      "Support recovery",
+      "Improve medicines",
+      "Advance medical research"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Biotechnology": 5
+    }
+  },
+  {
+    "question": "Which activity would you choose?",
+    "options": [
+      "Treating patients",
+      "Assisting surgeries",
+      "Preparing prescriptions",
+      "Analyzing blood samples"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 4,
+      "B.Pharm": 5,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  },
+  {
+    "question": "You are more interested in:",
+    "options": [
+      "Diagnosis",
+      "Caregiving",
+      "Medication",
+      "Testing"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Radiology": 5
+    }
+  },
+  {
+    "question": "What would you enjoy the most?",
+    "options": [
+      "Emergency care",
+      "Patient support",
+      "Pharmaceutical research",
+      "Lab investigations"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Biotechnology": 5
+    }
+  },
+  {
+    "question": "Which skill defines you?",
+    "options": [
+      "Quick decision-making",
+      "Empathy",
+      "Attention to detail",
+      "Analytical thinking"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 4,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  },
+  {
+    "question": "You prefer working with:",
+    "options": [
+      "Patients",
+      "Healthcare teams",
+      "Medicines",
+      "Lab tools"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "B.Sc Nursing": 5,
+      "B.Pharm": 5,
+      "B.Sc Radiology": 5
+    }
+  },
+  {
+    "question": "Which career sounds most appealing?",
+    "options": [
+      "Surgeon",
+      "Physiotherapist",
+      "Pharmacist",
+      "Radiologist"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "BPT": 5,
+      "B.Pharm": 5,
+      "B.Sc Radiology": 5
+    }
+  },
+  {
+    "question": "You are interested in:",
+    "options": [
+      "Human health",
+      "Rehabilitation",
+      "Drug development",
+      "Diagnostics"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "BPT": 5,
+      "B.Pharm": 5,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  },
+  {
+    "question": "Your ideal workplace is:",
+    "options": [
+      "Hospital",
+      "Rehab center",
+      "Pharmacy",
+      "Diagnostic lab"
+    ],
+    "weights": {
+      "MBBS": 5,
+      "BPT": 5,
+      "B.Pharm": 5,
+      "B.Sc Medical Laboratory Technology": 5
+    }
+  }
+],
+
+
+
+[
+  {
+    "question": "You are asked to lead a team project. What do you do first?",
+    "options": [
+      "Assign roles based on strengths",
+      "Plan the budget",
+      "Create a marketing strategy",
+      "Motivate team members"
+    ],
+    "weights": {
+      "BBA Human Resource Management": 5,
+      "BBA Finance": 4,
+      "BBA Marketing": 5,
+      "BBA": 4
+    }
+  },
+  {
+    "question": "Which activity interests you the most?",
+    "options": [
+      "Running a business",
+      "Analyzing financial data",
+      "Promoting products",
+      "Managing people"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "You enjoy solving problems related to:",
+    "options": [
+      "Business growth",
+      "Profit and loss",
+      "Customer engagement",
+      "Team conflicts"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "Which role suits you best?",
+    "options": [
+      "Business owner",
+      "Financial analyst",
+      "Marketing manager",
+      "HR manager"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "What excites you the most?",
+    "options": [
+      "Starting a startup",
+      "Managing investments",
+      "Creating ad campaigns",
+      "Building strong teams"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "You prefer working with:",
+    "options": [
+      "Business ideas",
+      "Numbers",
+      "Customers",
+      "Employees"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "Which subject do you like most?",
+    "options": [
+      "Business studies",
+      "Accounting",
+      "Advertising",
+      "Organizational behavior"
+    ],
+    "weights": {
+      "BBA": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "You are more interested in:",
+    "options": [
+      "Launching products",
+      "Financial planning",
+      "Brand building",
+      "Employee satisfaction"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "What kind of challenge do you enjoy?",
+    "options": [
+      "Growing a company",
+      "Managing budgets",
+      "Attracting customers",
+      "Handling team issues"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "Which career sounds exciting?",
+    "options": [
+      "Entrepreneur",
+      "Investment banker",
+      "Digital marketer",
+      "HR executive"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "You like working in:",
+    "options": [
+      "Startups",
+      "Banks",
+      "Advertising agencies",
+      "Corporate offices"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA": 4
+    }
+  },
+  {
+    "question": "What motivates you?",
+    "options": [
+      "Innovation",
+      "Financial success",
+      "Public recognition",
+      "Team success"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 4,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "Which activity would you choose?",
+    "options": [
+      "Pitching a business idea",
+      "Analyzing stock markets",
+      "Designing an ad campaign",
+      "Conducting interviews"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "You prefer solving:",
+    "options": [
+      "Business strategy problems",
+      "Financial risks",
+      "Marketing challenges",
+      "Employee issues"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "What is your strength?",
+    "options": [
+      "Leadership",
+      "Analytical skills",
+      "Creativity",
+      "Communication"
+    ],
+    "weights": {
+      "BBA": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "You enjoy learning about:",
+    "options": [
+      "Business models",
+      "Financial systems",
+      "Consumer behavior",
+      "Workplace psychology"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "Which work environment suits you?",
+    "options": [
+      "Dynamic startup",
+      "Structured finance office",
+      "Creative agency",
+      "People-oriented workplace"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "What would you enjoy most?",
+    "options": [
+      "Running your own company",
+      "Managing investments",
+      "Promoting brands",
+      "Developing teams"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "You are best at:",
+    "options": [
+      "Taking risks",
+      "Working with numbers",
+      "Creative thinking",
+      "Understanding people"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  },
+  {
+    "question": "Your dream career is:",
+    "options": [
+      "Startup founder",
+      "Finance expert",
+      "Marketing strategist",
+      "HR leader"
+    ],
+    "weights": {
+      "BBA Entrepreneurship": 5,
+      "BBA Finance": 5,
+      "BBA Marketing": 5,
+      "BBA Human Resource Management": 5
+    }
+  }
+],
+
+
+[
+  {
+    "question": "You are given a company's financial data. What would you do first?",
+    "options": [
+      "Analyze profit and loss",
+      "Check tax compliance",
+      "Study investment opportunities",
+      "Review company policies"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Taxation": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Which activity interests you the most?",
+    "options": [
+      "Managing accounts",
+      "Working in banks",
+      "Investing in stocks",
+      "Handling legal compliance"
+    ],
+    "weights": {
+      "B.Com": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "You enjoy working with:",
+    "options": [
+      "Financial records",
+      "Banking systems",
+      "Stock market trends",
+      "Corporate laws"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Which subject do you like most?",
+    "options": [
+      "Accounting",
+      "Economics",
+      "Business law",
+      "Statistics"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com": 4,
+      "B.Com Corporate Secretaryship": 5,
+      "B.Com Financial Markets": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Financial accuracy",
+      "Banking operations",
+      "Market profits",
+      "Legal compliance"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Which role suits you best?",
+    "options": [
+      "Accountant",
+      "Bank manager",
+      "Stock analyst",
+      "Company secretary"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "You prefer solving:",
+    "options": [
+      "Accounting errors",
+      "Banking issues",
+      "Investment risks",
+      "Compliance problems"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Which activity would you choose?",
+    "options": [
+      "Preparing balance sheets",
+      "Managing loans",
+      "Trading stocks",
+      "Drafting legal documents"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "What type of work do you prefer?",
+    "options": [
+      "Detailed calculations",
+      "Customer financial services",
+      "Market analysis",
+      "Corporate governance"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "You enjoy learning about:",
+    "options": [
+      "Accounting systems",
+      "Banking operations",
+      "Stock markets",
+      "Business regulations"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Which challenge excites you?",
+    "options": [
+      "Balancing accounts",
+      "Managing financial risk",
+      "Predicting market trends",
+      "Ensuring compliance"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "You prefer working in:",
+    "options": [
+      "Accounting firms",
+      "Banks",
+      "Stock exchanges",
+      "Corporate offices"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "What is your strength?",
+    "options": [
+      "Attention to detail",
+      "Customer handling",
+      "Analytical thinking",
+      "Understanding rules"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 4,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Which career sounds exciting?",
+    "options": [
+      "Chartered Accountant",
+      "Bank Officer",
+      "Investment Analyst",
+      "Company Secretary"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "You are interested in:",
+    "options": [
+      "Financial statements",
+      "Banking services",
+      "Stock investments",
+      "Corporate laws"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Which task do you enjoy most?",
+    "options": [
+      "Auditing accounts",
+      "Managing accounts in banks",
+      "Trading stocks",
+      "Ensuring compliance"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "What kind of environment suits you?",
+    "options": [
+      "Accounting office",
+      "Bank branch",
+      "Trading floor",
+      "Corporate legal office"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "You like solving problems related to:",
+    "options": [
+      "Accounts mismatch",
+      "Banking operations",
+      "Market fluctuations",
+      "Legal compliance"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "What would you enjoy the most?",
+    "options": [
+      "Maintaining financial records",
+      "Helping customers with finances",
+      "Investing in markets",
+      "Managing corporate rules"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  },
+  {
+    "question": "Your dream role is:",
+    "options": [
+      "Accountant",
+      "Banker",
+      "Investor",
+      "Corporate advisor"
+    ],
+    "weights": {
+      "B.Com Accounting & Finance": 5,
+      "B.Com Banking & Insurance": 5,
+      "B.Com Financial Markets": 5,
+      "B.Com Corporate Secretaryship": 5
+    }
+  }
+],
+
+
+[
+  {
+    "question": "When starting a creative project, what excites you the most?",
+    "options": [
+      "Designing how the product will look and function",
+      "Creating visual layouts and graphics",
+      "Storyboarding animations or scenes",
+      "Building interactive experiences like games"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 3,
+      "B.Sc Animation": 2,
+      "B.Sc Game Design": 3
+    }
+  },
+  {
+    "question": "You are asked to redesign a mobile app. What would you focus on first?",
+    "options": [
+      "User experience and navigation",
+      "Visual design and color schemes",
+      "Animations and transitions",
+      "Interactive features and engagement"
+    ],
+    "weights": {
+      "B.Des UI/UX Design": 5,
+      "B.Des Graphic Design": 3,
+      "B.Sc Animation": 2,
+      "B.Sc Game Design": 3
+    }
+  },
+  {
+    "question": "Which activity do you enjoy the most?",
+    "options": [
+      "Sketching product ideas",
+      "Designing posters or logos",
+      "Creating animated videos",
+      "Designing game characters or levels"
+    ],
+    "weights": {
+      "B.Des Product Design": 4,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 4,
+      "B.Sc Game Design": 4
+    }
+  },
+  {
+    "question": "How do you approach problem-solving?",
+    "options": [
+      "Design a practical and aesthetic solution",
+      "Communicate ideas visually",
+      "Tell stories through motion",
+      "Create immersive digital experiences"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 4,
+      "B.Sc Animation": 4,
+      "B.Sc Multimedia": 3
+    }
+  },
+  {
+    "question": "Which tool would you prefer learning?",
+    "options": [
+      "CAD or 3D modeling software",
+      "Adobe Photoshop or Illustrator",
+      "Animation tools like Blender",
+      "Game engines like Unity"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "What type of projects attract you the most?",
+    "options": [
+      "Designing physical products",
+      "Branding and marketing visuals",
+      "Animated storytelling",
+      "Game development projects"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "How do you express your creativity?",
+    "options": [
+      "Through designing functional objects",
+      "Through visual art and graphics",
+      "Through animation and motion",
+      "Through interactive gameplay"
+    ],
+    "weights": {
+      "B.Des Product Design": 4,
+      "BFA": 5,
+      "B.Sc Animation": 4,
+      "B.Sc Game Design": 4
+    }
+  },
+  {
+    "question": "Which career sounds most appealing?",
+    "options": [
+      "Product designer",
+      "Graphic designer",
+      "Animator",
+      "Game developer"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "What do you enjoy analyzing the most?",
+    "options": [
+      "Product usability",
+      "Visual composition",
+      "Movement and timing",
+      "User interaction"
+    ],
+    "weights": {
+      "B.Des UI/UX Design": 5,
+      "B.Des Graphic Design": 4,
+      "B.Sc Animation": 4,
+      "B.Sc Multimedia": 3
+    }
+  },
+  {
+    "question": "You are given a blank canvas. What would you create?",
+    "options": [
+      "A product prototype sketch",
+      "A digital illustration",
+      "An animated scene",
+      "A game concept design"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "BFA": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to master?",
+    "options": [
+      "Industrial design",
+      "Visual communication",
+      "Animation storytelling",
+      "Game mechanics design"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 4,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "What motivates you in creative work?",
+    "options": [
+      "Solving real-world design problems",
+      "Creating visually appealing designs",
+      "Bringing stories to life",
+      "Engaging users interactively"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "Which environment do you prefer?",
+    "options": [
+      "Design studio",
+      "Creative agency",
+      "Animation studio",
+      "Game development studio"
+    ],
+    "weights": {
+      "B.Des Product Design": 4,
+      "B.Des Graphic Design": 4,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "How do you approach storytelling?",
+    "options": [
+      "Through product design",
+      "Through visuals and graphics",
+      "Through animation",
+      "Through gameplay"
+    ],
+    "weights": {
+      "B.Des Product Design": 3,
+      "B.Des Graphic Design": 4,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "Which project would you choose?",
+    "options": [
+      "Designing a new gadget",
+      "Creating a brand identity",
+      "Making an animated short film",
+      "Developing a mobile game"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "What kind of challenges excite you?",
+    "options": [
+      "Improving product usability",
+      "Creating impactful visuals",
+      "Animating realistic movements",
+      "Designing engaging gameplay"
+    ],
+    "weights": {
+      "B.Des UI/UX Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "Which subject interests you the most?",
+    "options": [
+      "Design principles",
+      "Art and illustration",
+      "Animation techniques",
+      "Game design concepts"
+    ],
+    "weights": {
+      "B.Des Product Design": 4,
+      "BFA": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "What type of feedback do you value most?",
+    "options": [
+      "Functionality and usability",
+      "Visual appeal",
+      "Smoothness of animation",
+      "User engagement"
+    ],
+    "weights": {
+      "B.Des UI/UX Design": 5,
+      "B.Des Graphic Design": 4,
+      "B.Sc Animation": 5,
+      "B.Sc Multimedia": 3
+    }
+  },
+  {
+    "question": "How do you prefer working?",
+    "options": [
+      "Designing practical solutions",
+      "Creating visual content",
+      "Animating stories",
+      "Building interactive systems"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  },
+  {
+    "question": "What defines success for you in a creative field?",
+    "options": [
+      "A product that solves real problems",
+      "A visually stunning design",
+      "An engaging animation",
+      "A successful game experience"
+    ],
+    "weights": {
+      "B.Des Product Design": 5,
+      "B.Des Graphic Design": 5,
+      "B.Sc Animation": 5,
+      "B.Sc Game Design": 5
+    }
+  }
+],
+
+[
+  {
+    "question": "Which activity do you enjoy the most in your free time?",
+    "options": [
+      "Conducting experiments or solving scientific problems",
+      "Analyzing data and finding patterns",
+      "Observing nature and biological systems",
+      "Investigating environmental issues"
+    ],
+    "weights": {
+      "B.Sc Chemistry": 4,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 4,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "You are given a complex problem. What is your first step?",
+    "options": [
+      "Break it into smaller logical parts",
+      "Collect and analyze data",
+      "Research biological or chemical aspects",
+      "Study environmental impact"
+    ],
+    "weights": {
+      "B.Sc Mathematics": 5,
+      "B.Sc Statistics": 4,
+      "B.Sc Microbiology": 4,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "Which subject excites you the most?",
+    "options": [
+      "Physics concepts and laws",
+      "Chemical reactions",
+      "Mathematical theories",
+      "Biological processes"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Chemistry": 5,
+      "B.Sc Mathematics": 5,
+      "B.Sc Biotechnology": 4
+    }
+  },
+  {
+    "question": "What type of career appeals to you?",
+    "options": [
+      "Research scientist",
+      "Data analyst",
+      "Biotechnologist",
+      "Environmental scientist"
+    ],
+    "weights": {
+      "B.Sc Physics": 4,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "Which task would you prefer?",
+    "options": [
+      "Designing experiments",
+      "Working with numbers and models",
+      "Studying microorganisms",
+      "Analyzing pollution data"
+    ],
+    "weights": {
+      "B.Sc Chemistry": 5,
+      "B.Sc Mathematics": 5,
+      "B.Sc Microbiology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Discovering new scientific theories",
+      "Solving real-world data problems",
+      "Advancing medical or biological research",
+      "Protecting the environment"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "Which tool would you prefer using?",
+    "options": [
+      "Lab equipment",
+      "Statistical software",
+      "Microscopes",
+      "Environmental monitoring tools"
+    ],
+    "weights": {
+      "B.Sc Chemistry": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Microbiology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What type of problems do you enjoy solving?",
+    "options": [
+      "Physical phenomena",
+      "Data-driven problems",
+      "Biological challenges",
+      "Environmental issues"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 4,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "How do you prefer learning?",
+    "options": [
+      "Through experiments",
+      "Through data analysis",
+      "Through biological observation",
+      "Through field studies"
+    ],
+    "weights": {
+      "B.Sc Chemistry": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Microbiology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "Which project would you choose?",
+    "options": [
+      "Studying motion and forces",
+      "Analyzing large datasets",
+      "Developing biotech solutions",
+      "Researching climate change"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What kind of environment do you prefer?",
+    "options": [
+      "Research lab",
+      "Data analysis office",
+      "Biology lab",
+      "Field research site"
+    ],
+    "weights": {
+      "B.Sc Chemistry": 4,
+      "B.Sc Statistics": 5,
+      "B.Sc Microbiology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What interests you the most?",
+    "options": [
+      "Understanding the universe",
+      "Predicting trends using data",
+      "Studying living organisms",
+      "Solving environmental problems"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 4,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to develop?",
+    "options": [
+      "Scientific experimentation",
+      "Data modeling",
+      "Biological research",
+      "Environmental analysis"
+    ],
+    "weights": {
+      "B.Sc Chemistry": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Microbiology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What kind of tasks excite you?",
+    "options": [
+      "Testing hypotheses",
+      "Working with numbers",
+      "Studying cells and organisms",
+      "Evaluating environmental impact"
+    ],
+    "weights": {
+      "B.Sc Physics": 4,
+      "B.Sc Mathematics": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "Which career goal suits you?",
+    "options": [
+      "Scientist",
+      "Statistician",
+      "Biotechnologist",
+      "Environmental analyst"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "How do you handle challenges?",
+    "options": [
+      "Apply scientific theories",
+      "Use data-driven approaches",
+      "Conduct biological research",
+      "Analyze environmental factors"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Microbiology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What type of analysis do you prefer?",
+    "options": [
+      "Physical systems",
+      "Statistical patterns",
+      "Biological systems",
+      "Environmental systems"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 4,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "Which area fascinates you the most?",
+    "options": [
+      "Energy and motion",
+      "Data trends",
+      "Living organisms",
+      "Ecosystems"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Microbiology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What would you rather work on?",
+    "options": [
+      "Physics experiments",
+      "Data science projects",
+      "Biotech innovations",
+      "Environmental conservation"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  },
+  {
+    "question": "What defines success for you?",
+    "options": [
+      "Discovering scientific laws",
+      "Solving complex data problems",
+      "Improving human health through biology",
+      "Protecting the planet"
+    ],
+    "weights": {
+      "B.Sc Physics": 5,
+      "B.Sc Statistics": 5,
+      "B.Sc Biotechnology": 5,
+      "B.Sc Environmental Science": 5
+    }
+  }
+],
+
+[
+  {
+    "question": "You enjoy debating and presenting arguments. What role would you take?",
+    "options": [
+      "Argue cases in court",
+      "Analyze legal documents",
+      "Advise businesses on legal matters",
+      "Study financial laws and policies"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which activity interests you the most?",
+    "options": [
+      "Defending someone in court",
+      "Understanding legal theories",
+      "Managing legal aspects of businesses",
+      "Handling corporate finance laws"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What kind of cases attract you the most?",
+    "options": [
+      "Criminal cases",
+      "Social justice cases",
+      "Corporate disputes",
+      "Financial fraud cases"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "How do you approach a problem?",
+    "options": [
+      "Argue logically",
+      "Analyze social impact",
+      "Think from a business perspective",
+      "Focus on financial/legal implications"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to develop?",
+    "options": [
+      "Courtroom argumentation",
+      "Legal research",
+      "Business law expertise",
+      "Financial law analysis"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Winning cases",
+      "Fighting for justice",
+      "Helping businesses legally",
+      "Preventing financial crimes"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which environment do you prefer?",
+    "options": [
+      "Courtroom",
+      "Research institute",
+      "Corporate office",
+      "Financial/legal consultancy"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What kind of problems excite you?",
+    "options": [
+      "Legal disputes",
+      "Social justice issues",
+      "Business conflicts",
+      "Financial irregularities"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "How do you prefer working?",
+    "options": [
+      "Arguing cases",
+      "Researching and writing",
+      "Advising companies",
+      "Analyzing financial data"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which subject interests you the most?",
+    "options": [
+      "Criminal law",
+      "Political science and law",
+      "Business management and law",
+      "Accounting and law"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What would you prefer to study?",
+    "options": [
+      "Legal case studies",
+      "Social and legal theories",
+      "Corporate case studies",
+      "Financial regulations"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which role sounds most appealing?",
+    "options": [
+      "Lawyer",
+      "Legal researcher",
+      "Corporate legal advisor",
+      "Financial legal consultant"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What type of cases would you like to handle?",
+    "options": [
+      "Criminal defense",
+      "Human rights",
+      "Corporate law",
+      "Tax and finance law"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "How do you handle challenges?",
+    "options": [
+      "Argue strongly",
+      "Analyze deeply",
+      "Strategize business solutions",
+      "Investigate financial details"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which activity excites you the most?",
+    "options": [
+      "Court trials",
+      "Legal research papers",
+      "Business negotiations",
+      "Financial audits"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What kind of thinking do you prefer?",
+    "options": [
+      "Logical reasoning",
+      "Analytical thinking",
+      "Strategic thinking",
+      "Numerical analysis"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What type of work environment suits you?",
+    "options": [
+      "Court",
+      "Academia",
+      "Corporate office",
+      "Finance/legal firm"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What inspires you the most?",
+    "options": [
+      "Justice",
+      "Social change",
+      "Business success",
+      "Financial integrity"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which career goal do you prefer?",
+    "options": [
+      "Top lawyer",
+      "Legal academic",
+      "Corporate lawyer",
+      "Financial law expert"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What defines success for you?",
+    "options": [
+      "Winning cases",
+      "Impacting society",
+      "Helping businesses grow legally",
+      "Ensuring financial justice"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  }
+],
+
+[
+  {
+    "question": "What excites you most about designing spaces?",
+    "options": [
+      "Creating building structures",
+      "Planning cities and infrastructure",
+      "Designing interiors",
+      "Balancing aesthetics with functionality"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which activity do you enjoy the most?",
+    "options": [
+      "Sketching building designs",
+      "Planning urban layouts",
+      "Decorating interior spaces",
+      "Analyzing spatial efficiency"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "How do you approach problem-solving?",
+    "options": [
+      "Design structures",
+      "Plan systems and layouts",
+      "Focus on aesthetics",
+      "Optimize space usage"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 4
+    }
+  },
+  {
+    "question": "Which tool would you prefer?",
+    "options": [
+      "AutoCAD",
+      "GIS tools",
+      "Interior design software",
+      "3D modeling tools"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What type of projects attract you?",
+    "options": [
+      "Building design",
+      "City planning",
+      "Interior spaces",
+      "Urban sustainability"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which career sounds appealing?",
+    "options": [
+      "Architect",
+      "Urban planner",
+      "Interior designer",
+      "Sustainability planner"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What motivates you?",
+    "options": [
+      "Designing buildings",
+      "Improving cities",
+      "Creating beautiful interiors",
+      "Solving space challenges"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which subject interests you most?",
+    "options": [
+      "Architecture design",
+      "Urban planning",
+      "Interior decoration",
+      "Environmental design"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What kind of environment do you prefer?",
+    "options": [
+      "Design studio",
+      "Urban planning office",
+      "Interior studio",
+      "Field work"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "How do you express creativity?",
+    "options": [
+      "Building designs",
+      "City layouts",
+      "Interior spaces",
+      "Sustainable ideas"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which project would you choose?",
+    "options": [
+      "Design a house",
+      "Plan a city",
+      "Design a room",
+      "Create eco-friendly spaces"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What do you enjoy analyzing?",
+    "options": [
+      "Structures",
+      "Urban systems",
+      "Interior layouts",
+      "Environmental impact"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 4
+    }
+  },
+  {
+    "question": "Which skill do you want?",
+    "options": [
+      "Architectural design",
+      "Urban planning",
+      "Interior design",
+      "Sustainability planning"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What type of challenge excites you?",
+    "options": [
+      "Designing buildings",
+      "Managing city growth",
+      "Decorating interiors",
+      "Improving living spaces"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which role fits you?",
+    "options": [
+      "Architect",
+      "Planner",
+      "Interior designer",
+      "Urban analyst"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What type of thinking do you prefer?",
+    "options": [
+      "Design thinking",
+      "System thinking",
+      "Creative thinking",
+      "Analytical thinking"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 4
+    }
+  },
+  {
+    "question": "What kind of work do you prefer?",
+    "options": [
+      "Design buildings",
+      "Plan cities",
+      "Design interiors",
+      "Research planning systems"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What inspires you?",
+    "options": [
+      "Modern architecture",
+      "Smart cities",
+      "Beautiful interiors",
+      "Eco-friendly designs"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which goal suits you?",
+    "options": [
+      "Design iconic buildings",
+      "Develop cities",
+      "Create interior spaces",
+      "Promote sustainability"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What defines success?",
+    "options": [
+      "Famous architecture",
+      "Well-planned cities",
+      "Beautiful interiors",
+      "Sustainable development"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  }
+],
+
+
+
+[
+  {
+    "question": "Which activity do you enjoy the most?",
+    "options": [
+      "Understanding human behavior",
+      "Studying society and social trends",
+      "Analyzing political systems",
+      "Exploring economic patterns"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What kind of problems interest you?",
+    "options": [
+      "Mental health issues",
+      "Social inequality",
+      "Government policies",
+      "Market trends"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "How do you approach understanding people?",
+    "options": [
+      "Study their thoughts and emotions",
+      "Analyze their social environment",
+      "Understand their political context",
+      "Evaluate their financial behavior"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 4,
+      "BA Economics": 4
+    }
+  },
+  {
+    "question": "Which subject excites you the most?",
+    "options": [
+      "Human psychology",
+      "Social systems",
+      "Politics and governance",
+      "Economics and finance"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Helping people mentally",
+      "Improving society",
+      "Influencing policies",
+      "Understanding economies"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which career sounds appealing?",
+    "options": [
+      "Psychologist",
+      "Social worker",
+      "Political analyst",
+      "Economist"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What type of environment do you prefer?",
+    "options": [
+      "Counseling center",
+      "Community field work",
+      "Government or policy office",
+      "Financial or research institute"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "How do you prefer solving problems?",
+    "options": [
+      "Understand emotional factors",
+      "Analyze social structures",
+      "Apply political strategies",
+      "Use data and analysis"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What kind of research interests you?",
+    "options": [
+      "Human behavior studies",
+      "Social surveys",
+      "Political case studies",
+      "Economic data analysis"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which activity would you choose?",
+    "options": [
+      "Counseling someone",
+      "Working with communities",
+      "Debating political topics",
+      "Studying financial reports"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What inspires you?",
+    "options": [
+      "Understanding the mind",
+      "Creating social change",
+      "Leadership and governance",
+      "Economic development"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to develop?",
+    "options": [
+      "Counseling skills",
+      "Social analysis",
+      "Policy making",
+      "Economic analysis"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What type of tasks excite you?",
+    "options": [
+      "Helping individuals",
+      "Studying society",
+      "Analyzing governments",
+      "Understanding markets"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "How do you like to learn?",
+    "options": [
+      "Case studies",
+      "Field research",
+      "Debates and discussions",
+      "Data and graphs"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What kind of thinking do you prefer?",
+    "options": [
+      "Emotional intelligence",
+      "Social reasoning",
+      "Strategic thinking",
+      "Analytical thinking"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which project would you choose?",
+    "options": [
+      "Mental health awareness",
+      "Community development",
+      "Political campaign",
+      "Economic research"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What type of work excites you?",
+    "options": [
+      "One-on-one counseling",
+      "Social field work",
+      "Policy development",
+      "Market analysis"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which role suits you?",
+    "options": [
+      "Therapist",
+      "Social researcher",
+      "Political strategist",
+      "Economic analyst"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What is your goal?",
+    "options": [
+      "Help individuals",
+      "Improve society",
+      "Influence governance",
+      "Understand economies"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What defines success for you?",
+    "options": [
+      "Helping people mentally",
+      "Creating social impact",
+      "Shaping policies",
+      "Driving economic growth"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  }
+],
+
+
+
+[
+  {
+    "question": "You are given a case where two parties dispute ownership of land. What interests you most?",
+    "options": [
+      "Analyzing legal documents and evidence",
+      "Negotiating a fair settlement",
+      "Researching past similar cases",
+      "Understanding the social impact of the dispute"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 3,
+      "B.Com LLB": 2
+    }
+  },
+  {
+    "question": "Which activity do you enjoy the most?",
+    "options": [
+      "Debating on social or political issues",
+      "Reading about laws and rights",
+      "Managing business-related legal scenarios",
+      "Analyzing financial regulations"
+    ],
+    "weights": {
+      "BA LLB": 5,
+      "LLB": 4,
+      "BBA LLB": 3,
+      "B.Com LLB": 3
+    }
+  },
+  {
+    "question": "If you were part of a courtroom, what role would you prefer?",
+    "options": [
+      "Arguing a case as a lawyer",
+      "Researching legal precedents",
+      "Advising businesses legally",
+      "Handling financial legal compliance"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 4,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "How do you usually approach a problem?",
+    "options": [
+      "Break it down logically",
+      "Consider ethical implications",
+      "Focus on business impact",
+      "Analyze financial consequences"
+    ],
+    "weights": {
+      "LLB": 4,
+      "BA LLB": 5,
+      "BBA LLB": 4,
+      "B.Com LLB": 4
+    }
+  },
+  {
+    "question": "You are asked to resolve a conflict between employees. What would you do?",
+    "options": [
+      "Apply rules and policies",
+      "Understand both perspectives",
+      "Focus on company benefit",
+      "Evaluate financial/legal risks"
+    ],
+    "weights": {
+      "LLB": 4,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 3
+    }
+  },
+  {
+    "question": "Which subject appeals to you the most?",
+    "options": [
+      "Constitutional Law",
+      "Political Science",
+      "Business Studies",
+      "Accounting & Finance"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 4,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Justice and fairness",
+      "Social change",
+      "Business success",
+      "Financial stability"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 4,
+      "B.Com LLB": 4
+    }
+  },
+  {
+    "question": "You enjoy reading:",
+    "options": [
+      "Legal case studies",
+      "Political theories",
+      "Business laws",
+      "Taxation and finance laws"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 4,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "In a group project, you usually:",
+    "options": [
+      "Ensure rules are followed",
+      "Analyze social impact",
+      "Plan strategies",
+      "Handle financial details"
+    ],
+    "weights": {
+      "LLB": 4,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 4
+    }
+  },
+  {
+    "question": "Which scenario excites you more?",
+    "options": [
+      "Winning a court case",
+      "Fighting for social justice",
+      "Advising a company legally",
+      "Handling corporate tax cases"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "How comfortable are you with public speaking?",
+    "options": [
+      "Very comfortable",
+      "Comfortable with preparation",
+      "Prefer structured presentations",
+      "Prefer data-based discussions"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 4,
+      "B.Com LLB": 3
+    }
+  },
+  {
+    "question": "You are more interested in:",
+    "options": [
+      "Courtroom arguments",
+      "Human rights issues",
+      "Corporate laws",
+      "Financial regulations"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "When making decisions, you:",
+    "options": [
+      "Follow rules strictly",
+      "Consider ethics",
+      "Think strategically",
+      "Analyze numbers"
+    ],
+    "weights": {
+      "LLB": 4,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 4
+    }
+  },
+  {
+    "question": "Which task do you prefer?",
+    "options": [
+      "Drafting legal documents",
+      "Writing essays on society",
+      "Preparing business contracts",
+      "Analyzing financial reports"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 4,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Your strength is:",
+    "options": [
+      "Logical reasoning",
+      "Critical thinking",
+      "Strategic planning",
+      "Numerical analysis"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 4,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "You are asked to study a new topic. You:",
+    "options": [
+      "Read legal texts",
+      "Explore social context",
+      "Focus on business impact",
+      "Analyze financial data"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 4,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "What kind of career appeals to you?",
+    "options": [
+      "Litigation lawyer",
+      "Social justice advocate",
+      "Corporate legal advisor",
+      "Tax/legal consultant"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "You prefer solving problems that are:",
+    "options": [
+      "Rule-based",
+      "Society-based",
+      "Business-related",
+      "Finance-related"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to develop?",
+    "options": [
+      "Argumentation",
+      "Critical analysis",
+      "Negotiation",
+      "Financial analysis"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 5,
+      "B.Com LLB": 5
+    }
+  },
+  {
+    "question": "How do you handle pressure?",
+    "options": [
+      "Stay logical",
+      "Stay calm and empathetic",
+      "Focus on outcomes",
+      "Analyze risks carefully"
+    ],
+    "weights": {
+      "LLB": 5,
+      "BA LLB": 5,
+      "BBA LLB": 4,
+      "B.Com LLB": 4
+    }
+  }
+],
+
+
+
+[
+  {
+    "question": "When you see a building, what do you notice first?",
+    "options": [
+      "Its structure and design",
+      "How people use the space",
+      "Its aesthetic appeal",
+      "Its environmental impact"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 4,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which activity do you enjoy the most?",
+    "options": [
+      "Sketching building designs",
+      "Planning city layouts",
+      "Decorating interiors",
+      "Analyzing environmental sustainability"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "You are given an empty land. What would you do?",
+    "options": [
+      "Design a modern building",
+      "Plan infrastructure and zoning",
+      "Visualize interior spaces",
+      "Ensure eco-friendly development"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 4
+    }
+  },
+  {
+    "question": "What interests you more?",
+    "options": [
+      "Blueprints and structures",
+      "Urban development",
+      "Interior aesthetics",
+      "Sustainable design"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which tool would you prefer using?",
+    "options": [
+      "CAD software",
+      "GIS tools",
+      "3D design software",
+      "Environmental simulation tools"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "In a group project, your role would be:",
+    "options": [
+      "Designing the structure",
+      "Planning overall layout",
+      "Handling interior design",
+      "Ensuring sustainability"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Creating iconic buildings",
+      "Improving city living",
+      "Designing beautiful spaces",
+      "Protecting the environment"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which subject do you enjoy most?",
+    "options": [
+      "Mathematics",
+      "Geography",
+      "Art & Design",
+      "Environmental Science"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "You prefer working on:",
+    "options": [
+      "Building structures",
+      "Urban systems",
+      "Interior layouts",
+      "Eco-friendly solutions"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which scenario excites you?",
+    "options": [
+      "Designing a skyscraper",
+      "Planning a smart city",
+      "Designing luxury interiors",
+      "Creating green buildings"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "How do you approach design problems?",
+    "options": [
+      "Focus on structure",
+      "Focus on functionality",
+      "Focus on aesthetics",
+      "Focus on sustainability"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What kind of work environment do you prefer?",
+    "options": [
+      "Design studio",
+      "Urban planning office",
+      "Interior design firm",
+      "Environmental consultancy"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "You enjoy learning about:",
+    "options": [
+      "Construction techniques",
+      "City planning strategies",
+      "Interior decoration",
+      "Sustainable materials"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Your strength is:",
+    "options": [
+      "Technical drawing",
+      "Strategic planning",
+      "Creative visualization",
+      "Environmental awareness"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which task would you enjoy most?",
+    "options": [
+      "Designing floor plans",
+      "Planning transportation systems",
+      "Designing room interiors",
+      "Analyzing environmental impact"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "When solving a problem, you:",
+    "options": [
+      "Think structurally",
+      "Think systemically",
+      "Think creatively",
+      "Think sustainably"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "What inspires you most?",
+    "options": [
+      "Famous buildings",
+      "Well-planned cities",
+      "Beautiful interiors",
+      "Eco-friendly designs"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which career appeals to you?",
+    "options": [
+      "Architect",
+      "Urban planner",
+      "Interior designer",
+      "Sustainability consultant"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "How do you handle challenges?",
+    "options": [
+      "Use technical solutions",
+      "Plan strategically",
+      "Think creatively",
+      "Focus on long-term impact"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to develop?",
+    "options": [
+      "Structural design",
+      "Urban planning",
+      "Interior styling",
+      "Sustainable development"
+    ],
+    "weights": {
+      "B.Arch": 5,
+      "B.Plan": 5,
+      "B.Des Interior Design": 5
+    }
+  }
+],
+
+
+
+[
+  {
+    "question": "You enjoy understanding:",
+    "options": [
+      "Human behavior",
+      "Society and culture",
+      "Government and politics",
+      "Economic systems"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which activity interests you most?",
+    "options": [
+      "Counseling people",
+      "Studying social issues",
+      "Debating political topics",
+      "Analyzing financial trends"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "If given a research topic, you would choose:",
+    "options": [
+      "Mental health patterns",
+      "Social inequality",
+      "Government policies",
+      "Market behavior"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "You are more curious about:",
+    "options": [
+      "Why people think differently",
+      "How societies function",
+      "How governments operate",
+      "How money flows in an economy"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which subject do you enjoy the most?",
+    "options": [
+      "Psychology",
+      "Sociology",
+      "Civics/Politics",
+      "Economics"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "In a group discussion, you usually:",
+    "options": [
+      "Understand emotions",
+      "Analyze social impact",
+      "Argue viewpoints",
+      "Use data and logic"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Helping individuals",
+      "Improving society",
+      "Influencing policies",
+      "Understanding markets"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "You prefer reading about:",
+    "options": [
+      "Human emotions",
+      "Social structures",
+      "Political theories",
+      "Economic reports"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which scenario excites you?",
+    "options": [
+      "Helping someone overcome stress",
+      "Studying community behavior",
+      "Debating national issues",
+      "Analyzing stock markets"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "You are more interested in:",
+    "options": [
+      "Counseling sessions",
+      "Social surveys",
+      "Policy making",
+      "Economic forecasting"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "How do you solve problems?",
+    "options": [
+      "Understand emotions",
+      "Study societal patterns",
+      "Analyze laws and rules",
+      "Use data and statistics"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which skill do you value most?",
+    "options": [
+      "Empathy",
+      "Social awareness",
+      "Critical thinking",
+      "Analytical ability"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "You prefer working on:",
+    "options": [
+      "Individual cases",
+      "Community issues",
+      "Government systems",
+      "Economic models"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which career appeals to you?",
+    "options": [
+      "Psychologist",
+      "Social worker",
+      "Political analyst",
+      "Economist"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "You enjoy analyzing:",
+    "options": [
+      "Human thoughts",
+      "Social trends",
+      "Political debates",
+      "Financial data"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "When learning something new, you:",
+    "options": [
+      "Focus on behavior",
+      "Understand society",
+      "Study governance",
+      "Analyze numbers"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What kind of environment do you prefer?",
+    "options": [
+      "Counseling center",
+      "NGO or research field",
+      "Government office",
+      "Corporate/financial sector"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "What inspires you most?",
+    "options": [
+      "Human resilience",
+      "Social change",
+      "Political leadership",
+      "Economic growth"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "How do you handle challenges?",
+    "options": [
+      "Stay empathetic",
+      "Analyze social factors",
+      "Debate solutions",
+      "Use logical reasoning"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to develop?",
+    "options": [
+      "Emotional intelligence",
+      "Social research",
+      "Political analysis",
+      "Data analysis"
+    ],
+    "weights": {
+      "BA Psychology": 5,
+      "BA Sociology": 5,
+      "BA Political Science": 5,
+      "BA Economics": 5
+    }
+  }
+],
+
+
+[
+  {
+    "question": "What do you enjoy the most?",
+    "options": [
+      "Explaining concepts to others",
+      "Working with children",
+      "Teaching science subjects",
+      "Designing learning activities"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Which environment do you prefer?",
+    "options": [
+      "High school classroom",
+      "Primary school",
+      "Science lab classroom",
+      "Early childhood classroom"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 4,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "You are best at:",
+    "options": [
+      "Teaching concepts clearly",
+      "Understanding student behavior",
+      "Explaining scientific ideas",
+      "Engaging young learners"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Which subject do you enjoy teaching?",
+    "options": [
+      "General subjects",
+      "Humanities subjects",
+      "Science subjects",
+      "Basic foundational skills"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "What motivates you the most?",
+    "options": [
+      "Helping students succeed",
+      "Understanding student psychology",
+      "Teaching complex topics",
+      "Shaping young minds"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "You prefer working with:",
+    "options": [
+      "Teenagers",
+      "Students interested in arts",
+      "Students interested in science",
+      "Young children"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "In a classroom, you would:",
+    "options": [
+      "Explain lessons clearly",
+      "Encourage discussions",
+      "Demonstrate experiments",
+      "Use fun learning activities"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Which skill do you value most?",
+    "options": [
+      "Communication",
+      "Empathy",
+      "Logical explanation",
+      "Creativity"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "You enjoy:",
+    "options": [
+      "Giving presentations",
+      "Understanding emotions",
+      "Explaining scientific ideas",
+      "Designing activities for kids"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Which scenario excites you?",
+    "options": [
+      "Helping a student understand a concept",
+      "Guiding students in discussions",
+      "Conducting experiments",
+      "Teaching kids through games"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "How do you solve problems?",
+    "options": [
+      "Explain step-by-step",
+      "Understand perspectives",
+      "Use logical reasoning",
+      "Use creative methods"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Which task would you enjoy most?",
+    "options": [
+      "Preparing lesson plans",
+      "Leading discussions",
+      "Designing experiments",
+      "Creating learning games"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "What kind of career appeals to you?",
+    "options": [
+      "School teacher",
+      "Humanities teacher",
+      "Science teacher",
+      "Primary school teacher"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "You prefer learning about:",
+    "options": [
+      "Teaching methods",
+      "Human behavior",
+      "Scientific concepts",
+      "Child development"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Your strength is:",
+    "options": [
+      "Communication skills",
+      "Understanding people",
+      "Logical thinking",
+      "Creativity"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "In a group, you:",
+    "options": [
+      "Explain clearly",
+      "Listen and guide",
+      "Analyze logically",
+      "Make it fun"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "What inspires you?",
+    "options": [
+      "Helping students grow",
+      "Understanding people",
+      "Teaching science",
+      "Educating young children"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Which environment do you prefer?",
+    "options": [
+      "Structured classroom",
+      "Discussion-based class",
+      "Lab-based class",
+      "Activity-based classroom"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "How do you handle challenges?",
+    "options": [
+      "Stay calm and explain",
+      "Understand student needs",
+      "Use logic",
+      "Adapt creatively"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  },
+  {
+    "question": "Which skill do you want to develop?",
+    "options": [
+      "Teaching skills",
+      "Student engagement",
+      "Scientific explanation",
+      "Child development skills"
+    ],
+    "weights": {
+      "B.Ed": 5,
+      "BA B.Ed": 5,
+      "B.Sc B.Ed": 5,
+      "B.El.Ed": 5
+    }
+  }
+],
+
+[
+  {
+    "question": "You are organizing a large event. What role would you prefer?",
+    "options": [
+      "Managing guests and services",
+      "Planning food and menu",
+      "Handling operations logistics",
+      "Marketing and promotions"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "B.Sc Culinary Arts": 3,
+      "BBA Hospitality Management": 4
+    }
+  },
+  {
+    "question": "What excites you the most in a hotel environment?",
+    "options": [
+      "Guest satisfaction",
+      "Cooking and presentation",
+      "Management systems",
+      "Business growth"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 4
+    }
+  },
+  {
+    "question": "How do you handle customer complaints?",
+    "options": [
+      "Calmly resolve and satisfy",
+      "Offer compensations",
+      "Escalate professionally",
+      "Analyze for business improvement"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "Which task would you enjoy most?",
+    "options": [
+      "Greeting guests",
+      "Cooking dishes",
+      "Managing staff",
+      "Planning hotel strategies"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What skill do you value most?",
+    "options": [
+      "Communication",
+      "Creativity in cooking",
+      "Leadership",
+      "Business management"
+    ],
+    "weights": {
+      "BHM": 4,
+      "B.Sc Culinary Arts": 5,
+      "BBA Hospitality Management": 5,
+      "B.Sc Hospitality & Hotel Administration": 4
+    }
+  },
+  {
+    "question": "You are in a busy restaurant. What do you focus on?",
+    "options": [
+      "Customer experience",
+      "Food quality",
+      "Staff coordination",
+      "Profit margins"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "Which activity do you enjoy?",
+    "options": [
+      "Hosting guests",
+      "Experimenting with recipes",
+      "Managing operations",
+      "Planning business growth"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "How do you react in high-pressure environments?",
+    "options": [
+      "Stay calm and assist guests",
+      "Focus on perfect execution",
+      "Coordinate teams",
+      "Optimize operations"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What interests you most?",
+    "options": [
+      "Hotel services",
+      "Food creation",
+      "Operations management",
+      "Hospitality business"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "Which role suits you best?",
+    "options": [
+      "Front desk manager",
+      "Chef",
+      "Operations manager",
+      "Business strategist"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What motivates you?",
+    "options": [
+      "Happy customers",
+      "Creative cooking",
+      "Efficient systems",
+      "Business success"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "How do you work in teams?",
+    "options": [
+      "Supportive and friendly",
+      "Focused on quality",
+      "Organized leader",
+      "Strategic thinker"
+    ],
+    "weights": {
+      "BHM": 4,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What would you enjoy learning?",
+    "options": [
+      "Customer service",
+      "Advanced cooking",
+      "Hotel operations",
+      "Hospitality business"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 5,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "Which scenario excites you?",
+    "options": [
+      "Running a hotel",
+      "Opening a restaurant",
+      "Managing a team",
+      "Scaling a business"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What is your strength?",
+    "options": [
+      "Communication",
+      "Creativity",
+      "Organization",
+      "Leadership"
+    ],
+    "weights": {
+      "BHM": 4,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What type of work environment do you prefer?",
+    "options": [
+      "Hotels",
+      "Kitchens",
+      "Management offices",
+      "Corporate environment"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "How do you approach tasks?",
+    "options": [
+      "Customer-focused",
+      "Detail-oriented",
+      "Organized",
+      "Strategic"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "Which career appeals most?",
+    "options": [
+      "Hotel manager",
+      "Chef",
+      "Operations manager",
+      "Hospitality entrepreneur"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What would you enjoy daily?",
+    "options": [
+      "Interacting with people",
+      "Cooking",
+      "Managing staff",
+      "Planning business"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  },
+  {
+    "question": "What drives your career choice?",
+    "options": [
+      "Helping people",
+      "Creating food",
+      "Managing systems",
+      "Building a business"
+    ],
+    "weights": {
+      "BHM": 5,
+      "B.Sc Culinary Arts": 5,
+      "B.Sc Hospitality & Hotel Administration": 4,
+      "BBA Hospitality Management": 5
+    }
+  }
+],
+
+
+[
+  {
+    "question": "You are given a piece of land. What would you prefer to do?",
+    "options": [
+      "Grow crops using modern techniques",
+      "Design a sustainable farm",
+      "Study soil and plant health",
+      "Develop agricultural machines"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 4,
+      "B.Sc Environmental Science": 4,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What interests you the most?",
+    "options": [
+      "Crop production",
+      "Plant cultivation",
+      "Environmental protection",
+      "Farm machinery"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "Which activity do you enjoy?",
+    "options": [
+      "Working on farms",
+      "Growing fruits and flowers",
+      "Studying ecosystems",
+      "Building machines"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "How do you approach environmental issues?",
+    "options": [
+      "Improve farming practices",
+      "Promote green plantations",
+      "Research solutions",
+      "Develop technology"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 4,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What motivates you?",
+    "options": [
+      "Feeding the population",
+      "Beautifying landscapes",
+      "Protecting nature",
+      "Innovating farming"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "Which subject do you prefer?",
+    "options": [
+      "Biology",
+      "Botany",
+      "Environmental science",
+      "Physics and mechanics"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "You see declining soil quality. What do you do?",
+    "options": [
+      "Improve farming methods",
+      "Plant suitable crops",
+      "Research soil conservation",
+      "Design better tools"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 4,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What kind of work environment do you prefer?",
+    "options": [
+      "Farms",
+      "Gardens and nurseries",
+      "Research labs",
+      "Engineering workshops"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "Which problem would you like to solve?",
+    "options": [
+      "Food production",
+      "Plant growth",
+      "Climate change",
+      "Farm efficiency"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What excites you most?",
+    "options": [
+      "Harvesting crops",
+      "Growing plants",
+      "Saving the environment",
+      "Building machines"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "How do you work best?",
+    "options": [
+      "Outdoors",
+      "In gardens",
+      "In labs",
+      "In workshops"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What would you enjoy studying?",
+    "options": [
+      "Crop science",
+      "Plant breeding",
+      "Environmental policies",
+      "Agricultural machinery"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "Which role suits you?",
+    "options": [
+      "Farmer/Agri expert",
+      "Horticulturist",
+      "Environmental scientist",
+      "Agricultural engineer"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What is your strength?",
+    "options": [
+      "Practical work",
+      "Plant knowledge",
+      "Research skills",
+      "Technical skills"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What would you like to improve?",
+    "options": [
+      "Food systems",
+      "Green spaces",
+      "Environment",
+      "Farm technology"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "How do you solve problems?",
+    "options": [
+      "Trial and field work",
+      "Plant experimentation",
+      "Scientific research",
+      "Engineering design"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What motivates your career choice?",
+    "options": [
+      "Helping farmers",
+      "Growing plants",
+      "Saving nature",
+      "Innovating agriculture"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "Which daily task do you prefer?",
+    "options": [
+      "Field work",
+      "Plant care",
+      "Research",
+      "Machine design"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "What kind of impact do you want to create?",
+    "options": [
+      "Food security",
+      "Green environments",
+      "Sustainability",
+      "Technological advancement"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  },
+  {
+    "question": "Which career path excites you most?",
+    "options": [
+      "Agriculture specialist",
+      "Horticulture expert",
+      "Environmental researcher",
+      "Agri-tech engineer"
+    ],
+    "weights": {
+      "B.Sc Agriculture": 5,
+      "B.Sc Horticulture": 5,
+      "B.Sc Environmental Science": 5,
+      "B.Tech Agricultural Engineering": 5
+    }
+  }
+],
+
+[
+  {
+    "question": "You are at an airport. What role interests you most?",
+    "options": [
+      "Flying an aircraft",
+      "Managing airport operations",
+      "Navigating ships",
+      "Maintaining marine engines"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What excites you the most?",
+    "options": [
+      "Flying in the sky",
+      "Managing airline systems",
+      "Exploring oceans",
+      "Working with engines"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 4,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "Which skill do you enjoy using?",
+    "options": [
+      "Quick decision-making",
+      "Leadership and coordination",
+      "Navigation and direction",
+      "Technical troubleshooting"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "How do you handle responsibility?",
+    "options": [
+      "Take full control in critical situations",
+      "Coordinate teams effectively",
+      "Follow strict navigation rules",
+      "Ensure systems run perfectly"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "Which environment do you prefer?",
+    "options": [
+      "Airspace",
+      "Airports",
+      "Open seas",
+      "Engine rooms"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What motivates you?",
+    "options": [
+      "Adventure and travel",
+      "Managing operations",
+      "Exploration of oceans",
+      "Technical innovation"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What type of task do you enjoy?",
+    "options": [
+      "Flying aircraft",
+      "Scheduling flights",
+      "Navigating ships",
+      "Repairing engines"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "How do you react in emergencies?",
+    "options": [
+      "Stay calm and take control",
+      "Coordinate rescue efforts",
+      "Follow navigation protocols",
+      "Fix technical issues quickly"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What subject do you prefer?",
+    "options": [
+      "Physics",
+      "Business studies",
+      "Geography",
+      "Mechanical engineering"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What role suits you best?",
+    "options": [
+      "Pilot",
+      "Airport manager",
+      "Ship navigator",
+      "Marine engineer"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What type of work schedule do you prefer?",
+    "options": [
+      "Dynamic flying schedules",
+      "Structured management hours",
+      "Long sea voyages",
+      "Technical shifts"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 4,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What interests you more?",
+    "options": [
+      "Aircraft systems",
+      "Airport logistics",
+      "Marine navigation",
+      "Engine systems"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "How do you prefer to work?",
+    "options": [
+      "Independently with high responsibility",
+      "In teams managing operations",
+      "Following navigation protocols",
+      "Handling technical systems"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What excites your curiosity?",
+    "options": [
+      "Flying techniques",
+      "Airline business models",
+      "Ocean routes",
+      "Engine design"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What is your strength?",
+    "options": [
+      "Decision-making",
+      "Leadership",
+      "Navigation skills",
+      "Technical skills"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What kind of challenge do you enjoy?",
+    "options": [
+      "Flying under pressure",
+      "Managing complex systems",
+      "Navigating difficult routes",
+      "Fixing machinery"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What motivates your career choice?",
+    "options": [
+      "Travel and adventure",
+      "Business leadership",
+      "Exploration",
+      "Engineering innovation"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "What type of workplace excites you?",
+    "options": [
+      "Cockpit",
+      "Airport office",
+      "Ship deck",
+      "Engine room"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "Which daily task appeals to you?",
+    "options": [
+      "Flying aircraft",
+      "Managing operations",
+      "Navigating ships",
+      "Maintaining engines"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  },
+  {
+    "question": "Which career path excites you most?",
+    "options": [
+      "Pilot",
+      "Aviation manager",
+      "Nautical officer",
+      "Marine engineer"
+    ],
+    "weights": {
+      "B.Sc Aviation": 5,
+      "BBA Aviation Management": 5,
+      "B.Sc Nautical Science": 5,
+      "B.Tech Marine Engineering": 5
+    }
+  }
+],
+
+
+[
+  {
+    "question": "What activity do you enjoy the most?",
+    "options": [
+      "Playing sports competitively",
+      "Studying sports science",
+      "Coaching others",
+      "Teaching physical fitness"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What motivates you?",
+    "options": [
+      "Winning competitions",
+      "Understanding body performance",
+      "Training athletes",
+      "Improving fitness in others"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "Which role interests you most?",
+    "options": [
+      "Athlete",
+      "Sports scientist",
+      "Coach",
+      "Physical education teacher"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What type of work do you prefer?",
+    "options": [
+      "Outdoor physical activities",
+      "Lab-based performance analysis",
+      "Training teams",
+      "Teaching students"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "How do you handle competition?",
+    "options": [
+      "Thrive under pressure",
+      "Analyze performance scientifically",
+      "Guide others to improve",
+      "Encourage participation"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What interests you the most?",
+    "options": [
+      "Sports tournaments",
+      "Human physiology",
+      "Training techniques",
+      "Fitness education"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "Which skill do you value most?",
+    "options": [
+      "Physical endurance",
+      "Analytical thinking",
+      "Leadership",
+      "Communication"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What would you enjoy studying?",
+    "options": [
+      "Sports techniques",
+      "Biomechanics",
+      "Coaching strategies",
+      "Physical education methods"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What type of challenge excites you?",
+    "options": [
+      "Winning matches",
+      "Improving athletic performance",
+      "Training others",
+      "Educating students"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "How do you work best?",
+    "options": [
+      "Individually in competitions",
+      "Analyzing data",
+      "Leading teams",
+      "Teaching groups"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What is your strength?",
+    "options": [
+      "Physical ability",
+      "Scientific understanding",
+      "Leadership",
+      "Teaching skills"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What kind of environment do you prefer?",
+    "options": [
+      "Sports field",
+      "Research lab",
+      "Training ground",
+      "School or college"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What motivates your career choice?",
+    "options": [
+      "Passion for sports",
+      "Interest in science",
+      "Helping athletes",
+      "Educating others"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "Which activity appeals most?",
+    "options": [
+      "Playing matches",
+      "Studying body movement",
+      "Coaching sessions",
+      "Teaching fitness"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "How do you solve problems?",
+    "options": [
+      "Practice and improve",
+      "Analyze scientifically",
+      "Train strategically",
+      "Teach effectively"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What type of career excites you?",
+    "options": [
+      "Professional athlete",
+      "Sports analyst",
+      "Coach",
+      "Physical education teacher"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What daily task do you prefer?",
+    "options": [
+      "Training physically",
+      "Studying performance",
+      "Coaching players",
+      "Teaching students"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "What kind of impact do you want to create?",
+    "options": [
+      "Achieve sports success",
+      "Advance sports science",
+      "Develop athletes",
+      "Promote fitness"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "Which skill excites you most?",
+    "options": [
+      "Speed and strength",
+      "Analysis and research",
+      "Coaching techniques",
+      "Teaching methods"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  },
+  {
+    "question": "Which career path suits you best?",
+    "options": [
+      "Athlete",
+      "Sports scientist",
+      "Coach",
+      "Physical educator"
+    ],
+    "weights": {
+      "B.P.Ed": 5,
+      "B.Sc Sports Science": 5,
+      "B.Sc Sports Coaching": 5
+    }
+  }
+]
+
+
+]
