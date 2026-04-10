@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 AI Career Path Recommendation System
 
 A full-stack intelligent career guidance platform powered by Machine Learning (Random Forest), NLP (TextBlob), FastAPI, React, and MySQL.
@@ -245,3 +246,5 @@ Access admin dashboard at: http://localhost:3000/admin
 | ML | Scikit-learn Random Forest |
 | NLP | TextBlob Sentiment Analysis (rule-based fallback) |
 | Charts | Recharts (Bar, Radar, Pie, Line) |
+=======
+# 🧠 AI Career Path Recommendation System
