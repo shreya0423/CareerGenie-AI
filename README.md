@@ -248,3 +248,27 @@ Access admin dashboard at: http://localhost:3000/admin
 | Charts | Recharts (Bar, Radar, Pie, Line) |
 =======
 # 🧠 AI Career Path Recommendation System
+
+## 📸 Application Screenshots
+
+### 📝 Assessment Page
+![Assessment](screenshots/assessment.png)
+
+### 🤖 Chatbot Page
+![Chatbot](screenshots/chatbot.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🔍 Explore Careers Page
+![Careers](screenshots/careers.png)
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📈 Results Page
+![Result1](screenshots/result1.png)
+
+![Result2](screenshots/result2.png)
+
+![Result3](screenshots/result3.png)
